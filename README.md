@@ -4,6 +4,7 @@
 
 ## [백준](https://www.acmicpc.net/) (C++)
 - [1012 유기농 배추](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.cpp)
+- 1074 Z
 - [1167 트리의 지름](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1167%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.cpp)
 - [1197 최소 스패닝 트리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1197%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.cpp)
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
