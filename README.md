@@ -4,7 +4,7 @@
 
 ## [백준](https://www.acmicpc.net/) (C++)
 - [1012 유기농 배추](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1012%20%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.cpp)
-- 1074 Z
+- [1074 Z](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1074%20Z.cpp)
 - [1167 트리의 지름](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1167%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.cpp)
 - [1197 최소 스패닝 트리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1197%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.cpp)
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
@@ -64,9 +64,10 @@
 - [5658 보물상자 비밀번호](https://github.com/Richardyun01/Code-Problems/blob/main/SWEA/5658%20%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.cpp)
 
 ## [프로그래머즈](https://programmers.co.kr/) (Python)
+- 2018 KAKAO BLIND RECRUITMENT [1차] 뉴스 클러스터링
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py)
 - [2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)
-- 2018 KAKAO BLIND RECRUITMENT [1차] 캐시
+- [2018 KAKAO BLIND RECRUITMENT [1차] 캐시](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py)
 - [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20KAKAO%20BLIND%20RECRUITMENT%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)
 - [2020 KAKAO BLIND RECRUITMENT 괄호 변환](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.py)
