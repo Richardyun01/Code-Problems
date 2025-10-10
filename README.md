@@ -68,7 +68,9 @@
 - [2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.py)
 - [2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)
 - [2018 KAKAO BLIND RECRUITMENT [1차] 캐시](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py)
+- 2018 KAKAO BLIND RECRUITMENT [1차] 프렌즈4블록
 - [2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py)
+- 2018 KAKAO BLIND RECRUITMENT [3차] 압축
 - [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20KAKAO%20BLIND%20RECRUITMENT%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)
 - [2020 KAKAO BLIND RECRUITMENT 괄호 변환](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.py)
