@@ -23,6 +23,7 @@
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
 - [9095 1, 2, 3 더하기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9095%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 - [9252 LCS 2](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9252%20LCS%202.cpp)
+- 9375 패션왕 신해빈
 - [10282 해킹](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10282%20%ED%95%B4%ED%82%B9.cpp)
 - [10775 공항](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10775%20%EA%B3%B5%ED%95%AD.cpp)
 - [10942 팰린드롬](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10942%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
@@ -43,7 +44,7 @@
 - [15683 감시](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/15683%20%EA%B0%90%EC%8B%9C%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [15829 Hashing](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/15829%20Hashing.cpp)
 - [16235 나무 재테크](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/16235%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
-- 17219 비밀번호 찾기
+- [17219 비밀번호 찾기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/17219%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.cpp)
 - [21608 상어 초등학교](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21608%20%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [21609 상어 중학교](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21609%20%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [21610 마법사 상어와 비바라기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21610%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
@@ -73,7 +74,7 @@
 - [2018 KAKAO BLIND RECRUITMENT [3차] n진수 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py)
 - [2018 KAKAO BLIND RECRUITMENT [3차] 압축](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2018%20KAKAO%20BLIND%20RECRUITMENT%20%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py)
 - [2019 KAKAO BLIND RECRUITMENT 실패율](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20KAKAO%20BLIND%20RECRUITMENT%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
-- 2019 KAKAO BLIND RECRUITMENT 오픈채팅방
+- [2019 KAKAO BLIND RECRUITMENT 오픈채팅방](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20KAKAO%20BLIND%20RECRUITMENT%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)
 - [2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)
 - [2020 KAKAO BLIND RECRUITMENT 괄호 변환](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.py)
 - [2020 KAKAO BLIND RECRUITMENT 문자열 압축](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/2020%20KAKAO%20BLIND%20RECRUITMENT%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)
