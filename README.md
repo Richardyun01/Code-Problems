@@ -7,7 +7,7 @@
 - [1074 Z](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1074%20Z.cpp)
 - [1167 트리의 지름](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1167%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.cpp)
 - [1197 최소 스패닝 트리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1197%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.cpp)
-- 1260 DFS와 BFS
+- [1260 DFS와 BFS](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1260%20DFS%EC%99%80%20BFS.cpp)
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
 - [1697 숨바꼭질](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1697%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)
 - [1766 문제집](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1766%20%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
@@ -30,6 +30,7 @@
 - [10282 해킹](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10282%20%ED%95%B4%ED%82%B9.cpp)
 - [10775 공항](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10775%20%EA%B3%B5%ED%95%AD.cpp)
 - [10942 팰린드롬](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10942%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
+- 11053 가장 긴 증가하는 부분 수열
 - [11399 ATM](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/11399%20ATM.cpp)
 - [11659 구간 합 구하기 4](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/11659%20%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%204.cpp)
 - [11723 집합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/11723%20%EC%A7%91%ED%95%A9.cpp)
@@ -44,7 +45,7 @@
 - [14940 쉬운 최단거리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/14940%20%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.cpp)
 - [14500 테트로미노](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/14500%20%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [14626 ISBN](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/14626%20ISBN.cpp)
-- 15650 N과 M (2)
+- [15650 N과 M (2)](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/15650%20N%EA%B3%BC%20M%20(2).cpp)
 - [15683 감시](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/15683%20%EA%B0%90%EC%8B%9C%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [15829 Hashing](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/15829%20Hashing.cpp)
 - [16235 나무 재테크](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/16235%20%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
