@@ -54,6 +54,7 @@
 - [21609 상어 중학교](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21609%20%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [21610 마법사 상어와 비바라기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21610%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [23290 마법사 상어와 복제](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/23290%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B3%B5%EC%A0%9C%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
+- 28074 모비스
 
 ## [SWEA](https://swexpertacademy.com/main/main.do) (C++)
 - [1949 등산로 조성](https://github.com/Richardyun01/Code-Problems/blob/main/SWEA/1949%20%EB%93%B1%EC%82%B0%EB%A1%9C%20%EC%A1%B0%EC%84%B1.cpp)
