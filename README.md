@@ -23,6 +23,7 @@
 - [2609 최대공약수와 최소공배수](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2609%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
+- 3273 두 수의 합
 - [7576 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7576%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - 8979 올림픽
 - [9095 1, 2, 3 더하기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9095%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
