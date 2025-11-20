@@ -11,10 +11,12 @@
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
 - [1697 숨바꼭질](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1697%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)
 - [1766 문제집](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1766%20%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
+- 1874 스택 수열
 - [1920 수 찾기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp)
 - [1931 회의실 배정](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.cpp)
 - [1949 우수 마을](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1949%20%EC%9A%B0%EC%88%98%20%EB%A7%88%EC%9D%84.cpp)
 - [1956 운동](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1956%20%EC%9A%B4%EB%8F%99.cpp)
+- 1966 프린터 큐
 - [1976 여행 가자](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1976%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.cpp)
 - [2213 트리의 독립집합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2213%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9.cpp)
 - [2263 트리의 순회](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2263%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C.cpp)
