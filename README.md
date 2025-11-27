@@ -1,5 +1,5 @@
 # Code-Problems
-백준, SWEA, 프로그래머즈에서 풀은 코딩 문제 (2025~)
+백준, SWEA, 프로그래머즈, LeetCode에서 풀은 코딩 문제 (2025~)
 [블로그](https://blog.naver.com/richardyun01/)
 
 ## [백준](https://www.acmicpc.net/) (C++)
@@ -8,6 +8,7 @@
 - [1167 트리의 지름](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1167%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.cpp)
 - [1197 최소 스패닝 트리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1197%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.cpp)
 - [1260 DFS와 BFS](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1260%20DFS%EC%99%80%20BFS.cpp)
+- 1541 잃어버린 괄호
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
 - [1697 숨바꼭질](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1697%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)
 - [1766 문제집](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1766%20%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
@@ -27,11 +28,13 @@
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
 - [3273 두 수의 합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3273%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)
+- 5430 AC
 - [7576 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7576%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - [8979 올림픽](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/8979%20%EC%98%AC%EB%A6%BC%ED%94%BD.cpp)
 - [9095 1, 2, 3 더하기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9095%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 - [9252 LCS 2](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9252%20LCS%202.cpp)
 - [9375 패션왕 신해빈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9375%20%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.cpp)
+- 9461 파도반 수열
 - [10282 해킹](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10282%20%ED%95%B4%ED%82%B9.cpp)
 - [10775 공항](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10775%20%EA%B3%B5%ED%95%AD.cpp)
 - [10942 팰린드롬](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10942%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
@@ -117,3 +120,9 @@
 - [월간 코드 챌린지 시즌2 2개 이하로 다른 비트](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2%202%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.py)
 - [월간 코드 챌린지 시즌2 n^2 배열 자르기](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2%20n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 - [월간 코드 챌린지 시즌2 괄호 회전하기](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2%20%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)
+
+## [LeetCode](https://leetcode.com/) (C++)
+- 배열 1
+  - 배열 합치기
+  - 배열 섞기
+  - 연이은 1의 갯수 세기
