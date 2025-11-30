@@ -8,7 +8,7 @@
 - [1167 트리의 지름](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1167%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.cpp)
 - [1197 최소 스패닝 트리](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1197%20%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.cpp)
 - [1260 DFS와 BFS](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1260%20DFS%EC%99%80%20BFS.cpp)
-- 1541 잃어버린 괄호
+- [1541 잃어버린 괄호](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1541%20%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.cpp)
 - [1637 날카로운 눈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1637%20%EB%82%A0%EC%B9%B4%EB%A1%9C%EC%9A%B4%20%EB%88%88.cpp)
 - [1697 숨바꼭질](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1697%20%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.cpp)
 - [1766 문제집](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1766%20%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
@@ -23,18 +23,18 @@
 - [2263 트리의 순회](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2263%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C.cpp)
 - [2482 색상](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2482%20%EC%83%89%EC%83%81.cpp)
 - [2533 사회망 서비스](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2533%20%EC%82%AC%ED%9A%8C%EB%A7%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4.cpp)
-- 2579 계단 오르기
+- [2579 계단 오르기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2579%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.cpp)
 - [2609 최대공약수와 최소공배수](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2609%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
 - [3273 두 수의 합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3273%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)
-- 5430 AC
+- [5430 AC](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/5430%20AC.cpp)
 - [7576 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7576%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - [8979 올림픽](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/8979%20%EC%98%AC%EB%A6%BC%ED%94%BD.cpp)
 - [9095 1, 2, 3 더하기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9095%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
 - [9252 LCS 2](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9252%20LCS%202.cpp)
 - [9375 패션왕 신해빈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9375%20%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.cpp)
-- 9461 파도반 수열
+- [9461 파도반 수열](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.cpp)
 - [10282 해킹](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10282%20%ED%95%B4%ED%82%B9.cpp)
 - [10775 공항](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10775%20%EA%B3%B5%ED%95%AD.cpp)
 - [10942 팰린드롬](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10942%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
@@ -123,6 +123,14 @@
 
 ## [LeetCode](https://leetcode.com/) (C++)
 - 배열 1
-  - 배열 합치기
-  - 배열 섞기
-  - 연이은 1의 갯수 세기
+  - [배열 합치기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B0%EC%97%B4%201-1%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)
+  - [배열 섞기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B0%EC%97%B4%201-2%20%EB%B0%B0%EC%97%B4%20%EC%84%9E%EA%B8%B0.cpp)
+  - [연이은 1의 갯수 세기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B0%EC%97%B4%201-3%20%EC%97%B0%EC%9D%B4%EC%9D%80%201%EC%9D%98%20%EA%B0%AF%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)
+- 배열 2
+  - 없는 숫자 찾기
+  - 더 작은 수 찾기
+  - 없는 숫자들 찾기
+- 스택
+  - 스택으로 배열 만들기
+  - 후위 표기법
+  - 함수 실행 시간
