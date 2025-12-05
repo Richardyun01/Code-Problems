@@ -121,7 +121,7 @@
 - [월간 코드 챌린지 시즌2 n^2 배열 자르기](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2%20n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
 - [월간 코드 챌린지 시즌2 괄호 회전하기](https://github.com/Richardyun01/Code-Problems/blob/main/Programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2%20%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)
 
-## [LeetCode](https://leetcode.com/) (C++)
+## [LeetCode](https://leetcode.com/) (C++/Python)
 - 배열 1
   - [배열 합치기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B0%EC%97%B4%201-1%20%EB%B0%B0%EC%97%B4%20%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)
   - [배열 섞기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B0%EC%97%B4%201-2%20%EB%B0%B0%EC%97%B4%20%EC%84%9E%EA%B8%B0.cpp)
@@ -143,6 +143,10 @@
   - [산 배열](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%201-2%20%EC%82%B0%20%EB%B0%B0%EC%97%B4.cpp)
   - [중복 문자 제거](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%201-3%20%EC%A4%91%EB%B3%B5%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0.cpp)
 - 큐
-  - 점심을 먹을 수 없는 학생의 수
-  - 티켓 구매 시간
-  - 스택으로 큐 만들기
+  - [점심을 먹을 수 없는 학생의 수](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%81%90%201%20%EC%A0%90%EC%8B%AC%EC%9D%84%20%EB%A8%B9%EC%9D%84%20%EC%88%98%20%EC%97%86%EB%8A%94%20%ED%95%99%EC%83%9D%EC%9D%98%20%EC%88%98.cpp)
+  - [티켓 구매 시간](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%81%90%202%20%ED%8B%B0%EC%BC%93%20%EA%B5%AC%EB%A7%A4%20%EC%8B%9C%EA%B0%84.cpp)
+  - [스택으로 큐 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%81%90%203%20%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C%20%ED%81%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
+- 힙
+  - 마지막 돌 무게
+  - 가장 합이 작은 K개의 쌍 찾기
+  - 다수의 합으로 목표 배열 완성
