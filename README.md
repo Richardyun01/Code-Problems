@@ -151,18 +151,18 @@
   - [가장 합이 작은 K개의 쌍 찾기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%9E%99%202%20%EA%B0%80%EC%9E%A5%20%ED%95%A9%EC%9D%B4%20%EC%9E%91%EC%9D%80%20K%EA%B0%9C%EC%9D%98%20%EC%8C%8D%20%EC%B0%BE%EA%B8%B0.py)
   - [다수의 합으로 목표 배열 완성](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%9E%99%203%20%EB%8B%A4%EC%88%98%EC%9D%98%20%ED%95%A9%EC%9C%BC%EB%A1%9C%20%EB%AA%A9%ED%91%9C%20%EB%B0%B0%EC%97%B4%20%EC%99%84%EC%84%B1.py)
 - 문자열
-  - 대문자 감지
-  - 라이선스 키 포맷팅
-  - 개인정보 마스킹
+  - [대문자 감지](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%201%20%EB%8C%80%EB%AC%B8%EC%9E%90%20%EA%B0%90%EC%A7%80.py)
+  - [라이선스 키 포맷팅](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%202%20%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%20%ED%82%A4%20%ED%8F%AC%EB%A7%B7%ED%8C%85.py)
+  - [개인정보 마스킹](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%203%20%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EB%A7%88%EC%8A%A4%ED%82%B9.py)
 - 문자열 비교
-  - 반복되는 부분문자열 패턴
-  - 문자열 회전
-  - 반복되는 문자열 비교
+  - [반복되는 부분문자열 패턴](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B9%84%EA%B5%90%201%20%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8C%A8%ED%84%B4.py)
+  - [문자열 회전](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B9%84%EA%B5%90%202%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%9A%8C%EC%A0%84.py)
+  - [반복되는 문자열 비교](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B9%84%EA%B5%90%203%20%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B9%84%EA%B5%90.py)
 - 퀴즈 2
-  - 최대로 먹을 수 있는 사과의 수
-  - 원형 큐
-  - 최대로 반복되는 문자열
+  - [최대로 먹을 수 있는 사과의 수](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%202-1%20%EC%B5%9C%EB%8C%80%EB%A1%9C%20%EB%A8%B9%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EA%B3%BC%EC%9D%98%20%EC%88%98.py)
+  - [원형 큐](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%202-2%20%EC%9B%90%ED%98%95%20%ED%81%90.py)
+  - [최대로 반복되는 문자열](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%202-3%20%EC%B5%9C%EB%8C%80%EB%A1%9C%20%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4.py)
 - 구간 합
-  - 가장 높은 고도 찾기 [C++]|[Python]
-  - 합을 P로 나눠지도록 만들기 [C++]|[Python]
-  - 같은 수의 배열 만들기 [C++]|[Python]
+  - 가장 높은 고도 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.py)]
+  - 합을 P로 나눠지도록 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
+  - 같은 수의 배열 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
