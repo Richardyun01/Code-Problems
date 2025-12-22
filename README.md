@@ -147,6 +147,22 @@
   - [티켓 구매 시간](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%81%90%202%20%ED%8B%B0%EC%BC%93%20%EA%B5%AC%EB%A7%A4%20%EC%8B%9C%EA%B0%84.cpp)
   - [스택으로 큐 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%81%90%203%20%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C%20%ED%81%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - 힙
-  - 마지막 돌 무게
-  - 가장 합이 작은 K개의 쌍 찾기
-  - 다수의 합으로 목표 배열 완성
+  - [마지막 돌 무게](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%9E%99%201%20%EB%A7%88%EC%A7%80%EB%A7%89%20%EB%8F%8C%20%EB%AC%B4%EA%B2%8C.py)
+  - [가장 합이 작은 K개의 쌍 찾기](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%9E%99%202%20%EA%B0%80%EC%9E%A5%20%ED%95%A9%EC%9D%B4%20%EC%9E%91%EC%9D%80%20K%EA%B0%9C%EC%9D%98%20%EC%8C%8D%20%EC%B0%BE%EA%B8%B0.py)
+  - [다수의 합으로 목표 배열 완성](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%9E%99%203%20%EB%8B%A4%EC%88%98%EC%9D%98%20%ED%95%A9%EC%9C%BC%EB%A1%9C%20%EB%AA%A9%ED%91%9C%20%EB%B0%B0%EC%97%B4%20%EC%99%84%EC%84%B1.py)
+- 문자열
+  - 대문자 감지
+  - 라이선스 키 포맷팅
+  - 개인정보 마스킹
+- 문자열 비교
+  - 반복되는 부분문자열 패턴
+  - 문자열 회전
+  - 반복되는 문자열 비교
+- 퀴즈 2
+  - 최대로 먹을 수 있는 사과의 수
+  - 원형 큐
+  - 최대로 반복되는 문자열
+- 구간 합
+  - 가장 높은 고도 찾기 [C++]|[Python]
+  - 합을 P로 나눠지도록 만들기 [C++]|[Python]
+  - 같은 수의 배열 만들기 [C++]|[Python]
