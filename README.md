@@ -166,3 +166,7 @@
   - 가장 높은 고도 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.py)]
   - 합을 P로 나눠지도록 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
   - 같은 수의 배열 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)]|[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
+- 정렬
+  - 최소 절댓값 차이 [C++]|[Python]
+  - 배열 전부 1로 만들기 [C++]|[Python]
+  - 간격 겹치면 병합 [C++]|[Python]
