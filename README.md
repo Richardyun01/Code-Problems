@@ -166,10 +166,15 @@
   - 가장 높은 고도 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%201%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EA%B3%A0%EB%8F%84%20%EC%B0%BE%EA%B8%B0.py)]
   - 합을 P로 나눠지도록 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%202%20%ED%95%A9%EC%9D%84%20P%EB%A1%9C%20%EB%82%98%EB%88%A0%EC%A7%80%EB%8F%84%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
   - 같은 수의 배열 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EA%B5%AC%EA%B0%84%20%ED%95%A9%203%20%EA%B0%99%EC%9D%80%20%EC%88%98%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
+- 퀴즈 3
+  - 링크드 리스트에서 다음으로 큰 노드 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%203-1%20%EB%A7%81%ED%81%AC%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%8B%A4%EC%9D%8C%EC%9C%BC%EB%A1%9C%20%ED%81%B0%20%EB%85%B8%EB%93%9C.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%203-1%20%EB%A7%81%ED%81%AC%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%8B%A4%EC%9D%8C%EC%9C%BC%EB%A1%9C%20%ED%81%B0%20%EB%85%B8%EB%93%9C.py)]
+  - 연속 부분배열 합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%203-2%20%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4%20%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%203-2%20%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%EB%B0%B0%EC%97%B4%20%ED%95%A9.py)]
 - 정렬
   - 최소 절댓값 차이 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%201%20%EC%B5%9C%EC%86%8C%20%EC%A0%88%EB%8C%93%EA%B0%92%20%EC%B0%A8%EC%9D%B4.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%201%20%EC%B5%9C%EC%86%8C%20%EC%A0%88%EB%8C%93%EA%B0%92%20%EC%B0%A8%EC%9D%B4.py)]
   - 배열 전부 1로 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%202%20%EB%B0%B0%EC%97%B4%20%EC%A0%84%EB%B6%80%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%202%20%EB%B0%B0%EC%97%B4%20%EC%A0%84%EB%B6%80%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
   - 간격 겹치면 병합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%203%20%EA%B0%84%EA%B2%A9%20%EA%B2%B9%EC%B9%98%EB%A9%B4%20%EB%B3%91%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%A0%95%EB%A0%AC%203%20%EA%B0%84%EA%B2%A9%20%EA%B2%B9%EC%B9%98%EB%A9%B4%20%EB%B3%91%ED%95%A9.py)]
-- 퀴즈 3
-  - 링크드 리스트에서 다음으로 큰 노드 [C++][Python]
-  - 연속 부분배열 합 [C++][Python]
+- 이진탐색
+  - 산 배열의 최고 인덱스 [C++][Python]
+  - 이진탐색 [C++][Python]
+  - 제곱의 합 [C++][Python]
+  - 회전된 정렬 배열에서 탐색 [C++][Python]
