@@ -183,6 +183,9 @@
   - 배열 정렬 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC-%EB%A8%B8%EC%A7%80%20%EC%A0%95%EB%A0%AC-%ED%80%B5%20%EC%84%A0%ED%83%9D%202%20%EB%B0%B0%EC%97%B4%20%EC%A0%95%EB%A0%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC-%EB%A8%B8%EC%A7%80%20%EC%A0%95%EB%A0%AC-%ED%80%B5%20%EC%84%A0%ED%83%9D%202%20%EB%B0%B0%EC%97%B4%20%EC%A0%95%EB%A0%AC.py)]
   - 리스트 삽입 정렬 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC-%EB%A8%B8%EC%A7%80%20%EC%A0%95%EB%A0%AC-%ED%80%B5%20%EC%84%A0%ED%83%9D%203%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%B9%B4%EC%9A%B4%ED%8C%85%20%EC%A0%95%EB%A0%AC-%EB%A8%B8%EC%A7%80%20%EC%A0%95%EB%A0%AC-%ED%80%B5%20%EC%84%A0%ED%83%9D%203%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.py)]
 - 분할 정복
-  - 아름다운 배열 [C++][Python]
-  - 중위 순회-후위 순회로 이진 트리 구성 [C++][Python]
-  - 역쌍 [C++][Python]
+  - 아름다운 배열 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%201%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%B0%B0%EC%97%B4.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%201%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EB%B0%B0%EC%97%B4.py)]
+  - 중위 순회-후위 순회로 이진 트리 구성 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%202%20%EC%A4%91%EC%9C%84%20%EC%88%9C%ED%9A%8C-%ED%9B%84%EC%9C%84%20%EC%88%9C%ED%9A%8C%EB%A1%9C%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC%20%EA%B5%AC%EC%84%B1.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%202%20%EC%A4%91%EC%9C%84%20%EC%88%9C%ED%9A%8C-%ED%9B%84%EC%9C%84%20%EC%88%9C%ED%9A%8C%EB%A1%9C%20%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC%20%EA%B5%AC%EC%84%B1.py)]
+  - 역쌍 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%203%20%EC%97%AD%EC%8C%8D.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%203%20%EC%97%AD%EC%8C%8D.py)]
+- 퀴즈 4
+  - 정렬된 배열 합치기 [[C++]][[Python]]
+  - 맞는 간격 찾기 [[C++]][[Python]]
