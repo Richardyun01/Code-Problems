@@ -191,5 +191,10 @@
   - 맞는 간격 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%204-2%20%EB%A7%9E%EB%8A%94%20%EA%B0%84%EA%B2%A9%20%EC%B0%BE%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%80%B4%EC%A6%88%204-2%20%EB%A7%9E%EB%8A%94%20%EA%B0%84%EA%B2%A9%20%EC%B0%BE%EA%B8%B0.py)]
 - 퀴즈 5
 - 투 포인터
-  - 링크드 리스트 순환 [[C++]][[Python]]
-  - 가장 가까운 세 합 [[C++]][[Python]]
+  - 링크드 리스트 순환 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0%201%20%EB%A7%81%ED%81%AC%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%88%9C%ED%99%98.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0%201%20%EB%A7%81%ED%81%AC%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%88%9C%ED%99%98.py)]
+  - 가장 가까운 세 합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0%202%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%84%B8%20%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0%202%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%84%B8%20%ED%95%A9.py)]
+  - 마법의 문자열 [[C++]][[Python]]
+- 슬라이딩 윈도우
+  - 동일한 수 포함 II [[C++]][[Python]]
+  - 세 글자를 포함하는 문자열의 수 [[C++]][[Python]]
+  - 문자열 가장 길게 만들기 [[C++]][[Python]]
