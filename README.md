@@ -200,3 +200,5 @@
   - 문자열 가장 길게 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B0%80%EC%9E%A5%20%EA%B8%B8%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B0%80%EC%9E%A5%20%EA%B8%B8%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
 - 롤링 해시
   - 가장 짧은 팰린드롬 [[C++]][[Python]]
+  - 가장 긴 행복 접두사 [[C++]][[Python]]
+  - 만들어진 문자열의 점수의 합 [[C++]][[Python]]
