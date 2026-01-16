@@ -199,6 +199,10 @@
   - 세 글자를 포함하는 문자열의 수 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%202%20%EC%84%B8%20%EA%B8%80%EC%9E%90%EB%A5%BC%20%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%88%98.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%202%20%EC%84%B8%20%EA%B8%80%EC%9E%90%EB%A5%BC%20%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%88%98.py)]
   - 문자열 가장 길게 만들기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B0%80%EC%9E%A5%20%EA%B8%B8%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B0%80%EC%9E%A5%20%EA%B8%B8%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)]
 - 롤링 해시
-  - 가장 짧은 팰린드롬 [[C++]][[Python]]
-  - 가장 긴 행복 접두사 [[C++]][[Python]]
-  - 만들어진 문자열의 점수의 합 [[C++]][[Python]]
+  - 가장 짧은 팰린드롬 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%201%20%EA%B0%80%EC%9E%A5%20%EC%A7%A7%EC%9D%80%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%201%20%EA%B0%80%EC%9E%A5%20%EC%A7%A7%EC%9D%80%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py)]
+  - 가장 긴 행복 접두사 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%202%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%96%89%EB%B3%B5%20%EC%A0%91%EB%91%90%EC%82%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%202%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%96%89%EB%B3%B5%20%EC%A0%91%EB%91%90%EC%82%AC.py)]
+  - 만들어진 문자열의 점수의 합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%203%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%A0%90%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%203%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%A0%90%EC%88%98%EC%9D%98%20%ED%95%A9.py)]
+- 재귀
+  - 두 리스트를 정렬시키며 합치기 [[C++]][[Python]]
+  - N차 이진문자열에서 K번째 비트 찾기 [[C++]][[Python]]
+  - 문자열 디코딩 [[C++]][[Python]]
