@@ -203,6 +203,9 @@
   - 가장 긴 행복 접두사 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%202%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%96%89%EB%B3%B5%20%EC%A0%91%EB%91%90%EC%82%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%202%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%96%89%EB%B3%B5%20%EC%A0%91%EB%91%90%EC%82%AC.py)]
   - 만들어진 문자열의 점수의 합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%203%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%A0%90%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%A1%A4%EB%A7%81%20%ED%95%B4%EC%8B%9C%203%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EC%A0%90%EC%88%98%EC%9D%98%20%ED%95%A9.py)]
 - 재귀
-  - 두 리스트를 정렬시키며 합치기 [[C++]][[Python]]
-  - N차 이진문자열에서 K번째 비트 찾기 [[C++]][[Python]]
-  - 문자열 디코딩 [[C++]][[Python]]
+  - 두 리스트를 정렬시키며 합치기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%201%20%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%95%EB%A0%AC%EC%8B%9C%ED%82%A4%EB%A9%B0%20%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%201%20%EB%91%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%A0%95%EB%A0%AC%EC%8B%9C%ED%82%A4%EB%A9%B0%20%ED%95%A9%EC%B9%98%EA%B8%B0.py)]
+  - N차 이진문자열에서 K번째 비트 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%202%20N%EC%B0%A8%20%EC%9D%B4%EC%A7%84%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20K%EB%B2%88%EC%A7%B8%20%EB%B9%84%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%202%20N%EC%B0%A8%20%EC%9D%B4%EC%A7%84%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20K%EB%B2%88%EC%A7%B8%20%EB%B9%84%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.py)]
+  - 문자열 디코딩 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%94%94%EC%BD%94%EB%94%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%94%94%EC%BD%94%EB%94%A9.py)]
+- 백트래킹
+	- 조합 [[C++]][[Python]]
+	- IP 주소 복구 [[C++]][[Python]]
