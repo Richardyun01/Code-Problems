@@ -207,5 +207,9 @@
   - N차 이진문자열에서 K번째 비트 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%202%20N%EC%B0%A8%20%EC%9D%B4%EC%A7%84%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20K%EB%B2%88%EC%A7%B8%20%EB%B9%84%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%202%20N%EC%B0%A8%20%EC%9D%B4%EC%A7%84%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C%20K%EB%B2%88%EC%A7%B8%20%EB%B9%84%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.py)]
   - 문자열 디코딩 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%94%94%EC%BD%94%EB%94%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EC%9E%AC%EA%B7%80%203%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%94%94%EC%BD%94%EB%94%A9.py)]
 - 백트래킹
-	- 조합 [[C++]][[Python]]
-	- IP 주소 복구 [[C++]][[Python]]
+	- 조합 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%201%20%EC%A1%B0%ED%95%A9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%201%20%EC%A1%B0%ED%95%A9.py)]
+	- IP 주소 복구 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%202%20IP%20%EC%A3%BC%EC%86%8C%20%EB%B3%B5%EC%9B%90.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%202%20IP%20%EC%A3%BC%EC%86%8C%20%EB%B3%B5%EC%9B%90.py)]
+	- 길이 n인 모든 행복한 문자열의 k번째 사전순 문자열 [[C++]][[Python]]
+- 합집합 찾기
+	- 가장 긴 연속 순열 [[C++]][[Python]]
+	- 공통 집합에 의한 최대 구성 요소 크기 [[C++]][[Python]]
