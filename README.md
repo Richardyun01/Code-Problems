@@ -14,6 +14,7 @@
 - [1766 문제집](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1766%20%EB%AC%B8%EC%A0%9C%EC%A7%91.cpp)
 - [1874 스택 수열](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1874%20%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.cpp)
 - [1920 수 찾기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1920%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.cpp)
+- 1926 그림 [[C++]][[Python]]
 - [1931 회의실 배정](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.cpp)
 - [1949 우수 마을](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1949%20%EC%9A%B0%EC%88%98%20%EB%A7%88%EC%9D%84.cpp)
 - [1956 운동](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1956%20%EC%9A%B4%EB%8F%99.cpp)
