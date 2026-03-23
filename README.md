@@ -20,6 +20,7 @@
 - [1956 운동](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1956%20%EC%9A%B4%EB%8F%99.cpp)
 - [1966 프린터 큐](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.cpp)
 - [1976 여행 가자](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1976%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.cpp)
+- 2178 미로 [[C++]][[Python]]
 - [2213 트리의 독립집합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2213%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9.cpp)
 - [2263 트리의 순회](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2263%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C.cpp)
 - [2482 색상](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2482%20%EC%83%89%EC%83%81.cpp)
@@ -36,7 +37,7 @@
 - [9252 LCS 2](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9252%20LCS%202.cpp)
 - [9375 패션왕 신해빈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9375%20%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.cpp)
 - [9461 파도반 수열](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.cpp)
-- 10026 적록색맹 [[C++]][[Python]]
+- 10026 적록색맹 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10062%20%EC%A0%81%EB%A1%9D%EC%83%89%EB%A7%B9.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10062%20%EC%A0%81%EB%A1%9D%EC%83%89%EB%A7%B9.py)]
 - [10282 해킹](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10282%20%ED%95%B4%ED%82%B9.cpp)
 - [10775 공항](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10775%20%EA%B3%B5%ED%95%AD.cpp)
 - [10942 팰린드롬](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/10942%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.cpp)
