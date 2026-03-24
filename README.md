@@ -20,7 +20,7 @@
 - [1956 운동](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1956%20%EC%9A%B4%EB%8F%99.cpp)
 - [1966 프린터 큐](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1966%20%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.cpp)
 - [1976 여행 가자](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/1976%20%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.cpp)
-- 2178 미로 [[C++]][[Python]]
+- 2178 미로 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2178%20%EB%AF%B8%EB%A1%9C.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2178%20%EB%AF%B8%EB%A1%9C.py)]
 - [2213 트리의 독립집합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2213%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9.cpp)
 - [2263 트리의 순회](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2263%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C.cpp)
 - [2482 색상](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2482%20%EC%83%89%EC%83%81.cpp)
@@ -225,4 +225,7 @@
 	- 도달 가능한 모든 경로 찾기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%202%20%EB%8F%84%EB%8B%AC%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AA%A8%EB%93%A0%20%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.cpp)][[python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%202%20%EB%8F%84%EB%8B%AC%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AA%A8%EB%93%A0%20%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.py)]
 	- 두 도시 간의 최소 거리 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%203%20%EB%91%90%20%EB%8F%84%EC%8B%9C%20%EA%B0%84%20%EC%B5%9C%EC%86%8C%20%EA%B1%B0%EB%A6%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%203%20%EB%91%90%20%EB%8F%84%EC%8B%9C%20%EA%B0%84%20%EC%B5%9C%EC%86%8C%20%EA%B1%B0%EB%A6%AC.py)]
 	- 섬의 둘레 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%204%20%EC%84%AC%EC%9D%98%20%EB%91%98%EB%A0%88.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%204%20%EC%84%AC%EC%9D%98%20%EB%91%98%EB%A0%88.py)]
-	- BFS 5 모든 완전 구성요소의 수 세기 [[C++]][[Python]]
+	- 모든 완전 구성요소의 수 세기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%205%20%EB%AA%A8%EB%93%A0%20%EC%99%84%EC%A0%84%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%EC%9D%98%20%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%205%20%EB%AA%A8%EB%93%A0%20%EC%99%84%EC%A0%84%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%EC%9D%98%20%EC%88%98%20%EC%84%B8%EA%B8%B0.py)]
+- DFS
+	- 지도에서 가장 높은 봉우리 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%201%20%EC%A7%80%EB%8F%84%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EB%B4%89%EC%9A%B0%EB%A6%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%201%20%EC%A7%80%EB%8F%84%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EB%B4%89%EC%9A%B0%EB%A6%AC.py)]
+	- 친구들이 본 비디오 [[C++][[Python]]
