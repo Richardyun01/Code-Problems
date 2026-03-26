@@ -25,6 +25,7 @@
 - [2263 트리의 순회](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2263%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%88%9C%ED%9A%8C.cpp)
 - [2482 색상](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2482%20%EC%83%89%EC%83%81.cpp)
 - [2533 사회망 서비스](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2533%20%EC%82%AC%ED%9A%8C%EB%A7%9D%20%EC%84%9C%EB%B9%84%EC%8A%A4.cpp)
+- 2583 [[C++]][[Python]]
 - [2579 계단 오르기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2579%20%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.cpp)
 - [2609 최대공약수와 최소공배수](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2609%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cpp)
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
@@ -228,4 +229,4 @@
 	- 모든 완전 구성요소의 수 세기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%205%20%EB%AA%A8%EB%93%A0%20%EC%99%84%EC%A0%84%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%EC%9D%98%20%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/BFS%205%20%EB%AA%A8%EB%93%A0%20%EC%99%84%EC%A0%84%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%EC%9D%98%20%EC%88%98%20%EC%84%B8%EA%B8%B0.py)]
 - DFS
 	- 지도에서 가장 높은 봉우리 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%201%20%EC%A7%80%EB%8F%84%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EB%B4%89%EC%9A%B0%EB%A6%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%201%20%EC%A7%80%EB%8F%84%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EB%86%92%EC%9D%80%20%EB%B4%89%EC%9A%B0%EB%A6%AC.py)]
-	- 친구들이 본 비디오 [[C++][[Python]]
+	- 친구들이 본 비디오 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%202%20%EC%B9%9C%EA%B5%AC%EB%93%A4%EC%9D%B4%20%EB%B3%B8%20%EB%B9%84%EB%94%94%EC%98%A4.cpp)[[Python](https://github.com/Richardyun01/Code-Problems/blob/main/LeetCode/DFS%202%20%EC%B9%9C%EA%B5%AC%EB%93%A4%EC%9D%B4%20%EB%B3%B8%20%EB%B9%84%EB%94%94%EC%98%A4.py)]
