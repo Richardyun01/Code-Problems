@@ -31,12 +31,13 @@
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
 - [3273 두 수의 합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3273%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)
+- 5014 스타트링크 [[C++]][[Python]]
 - [5430 AC](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/5430%20AC.cpp)
 - [7569 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7569%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - [7576 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7576%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - [8979 올림픽](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/8979%20%EC%98%AC%EB%A6%BC%ED%94%BD.cpp)
 - [9095 1, 2, 3 더하기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9095%201%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.cpp)
-- 9205 맥주 마시면서 걸어가기 [[C++]][[Python]]
+- 9205 맥주 마시면서 걸어가기 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9205%20%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9205%20%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py)]
 - [9252 LCS 2](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9252%20LCS%202.cpp)
 - [9375 패션왕 신해빈](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9375%20%ED%8C%A8%EC%85%98%EC%99%95%20%EC%8B%A0%ED%95%B4%EB%B9%88.cpp)
 - [9461 파도반 수열](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/9461%20%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.cpp)
