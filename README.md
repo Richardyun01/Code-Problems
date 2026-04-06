@@ -31,7 +31,7 @@
 - [2630 색종이 만들기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/2630%20%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)
 - [3108 로고](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3108%20%EB%A1%9C%EA%B3%A0.cpp)
 - [3273 두 수의 합](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/3273%20%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9.cpp)
-- 5014 스타트링크 [[C++]][[Python]]
+- 5014 스타트링크 [[C++](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/5014%20%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.cpp)][[Python](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/5014%20%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.py)]
 - [5430 AC](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/5430%20AC.cpp)
 - [7569 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7569%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
 - [7576 토마토](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/7576%20%ED%86%A0%EB%A7%88%ED%86%A0.cpp)
@@ -71,6 +71,7 @@
 - [21610 마법사 상어와 비바라기](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/21610%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B9%84%EB%B0%94%EB%9D%BC%EA%B8%B0%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [23290 마법사 상어와 복제](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/23290%20%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B3%B5%EC%A0%9C%20(%EC%82%BC%EC%84%B1%20SW%20%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C).cpp)
 - [28074 모비스](https://github.com/Richardyun01/Code-Problems/blob/main/Baekjoon/28074%20%EB%AA%A8%EB%B9%84%EC%8A%A4.cpp)
+- [28215 대피소]
 
 ## [SWEA](https://swexpertacademy.com/main/main.do) (C++)
 - [1949 등산로 조성](https://github.com/Richardyun01/Code-Problems/blob/main/SWEA/1949%20%EB%93%B1%EC%82%B0%EB%A1%9C%20%EC%A1%B0%EC%84%B1.cpp)
